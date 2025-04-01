@@ -6,8 +6,10 @@
 </p>
 <h4>Com o meu empenho e dedicação consegui este resultado:</h4>
 
-<img width="600px" src=""/>
-<img width="600px" src=""/>
+<img width="600px" src="https://github.com/ygoraxe/Projeto-Responsividade-1/blob/main/assets/Desktop-easy.png?raw=true"/> <img height="300px" src="https://github.com/ygoraxe/Projeto-Responsividade-1/blob/main/assets/Mobile-easy.png?raw=true"/>
+
+<p>Estou sempre em busca de evolução técnica e profissional, pois acredito que a chave do sucesso está na persistência e na perseverança!</p>
+
 
 
 
